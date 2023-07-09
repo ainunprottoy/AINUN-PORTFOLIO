@@ -19,7 +19,7 @@ background: cadetblue;}
 a{color: cadetblue; text-decoration: none;}
 a:hover{color: khaki;}
 .hire{color: black; margin-top: 50px;}
-.header{background-color: azure;  background-repeat: no-repeat; background-position: top left ;}
+.header{background-color: azure;background-image: url("../media/developer.png");  background-repeat: no-repeat; background-position: top left ; padding-left: 90px; background-size: 70px; }
 .banner{padding: 0px 30px 0px 30px; display: flex; align-items: center; justify-content: space-between;}
 .exp{ font-size: 15px ;
     width: 85px; text-align: center;
